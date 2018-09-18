@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padNormal">25dp</dimen>
+    <dimen name="padSmall">15dp</dimen>
+
+    <dimen name="textBig">50sp</dimen>
+    <dimen name="textNormal">18sp</dimen>
+    <dimen name="textNumber">22sp</dimen>
+</resources>
